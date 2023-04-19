@@ -2,4 +2,4 @@ Hello World!
 Hello Git!
 Hello GitHub!
 Hello Git Repository!
-Change made on the remote repository
+Change made on the remote repository that is conflictionf=g with the local repo
