@@ -1,4 +1,4 @@
-Hello World!
+Conflicting change
 Hello Git!
 Hello GitHub!
 Hello Git Repository!
